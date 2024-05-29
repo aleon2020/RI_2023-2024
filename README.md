@@ -1,6 +1,6 @@
 # Robótica Industrial 2023-2024
 
-¡Bienvenido! En este repositorio se encuentran todos los materiales correspondientes a la asignatura de Rbótica Industrial.
+¡Bienvenido! En este repositorio se encuentran todos los materiales correspondientes a la asignatura de Robótica Industrial.
 
 A continuación se detallan brevemente todos los contenidos que se encuentran en este repositorio, con el objetivo de facilitar la preparación del examen final de la asignatura y de abordar la misma lo mejor posible.
 
