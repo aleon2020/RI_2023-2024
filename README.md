@@ -6,6 +6,20 @@ A continuación se detallan brevemente todos los contenidos que se encuentran en
 
 IMPORTANTE: SI OBSERVAS QUE HAY ALGÚN ERROR O ALGO QUE FALTE EN ALGÚN ARCHIVO SUBIDO A ESTE REPOSITORIO (O SI HAY ALGUNA DUDA EN CUANTO A COMPRENSIÓN), DÉJAME UN ISSUE Y TRATARÉ DE RESOLVER EL PROBLEMA LO ANTES POSIBLE. NO TE OLVIDES DEJARME UNA STAR Y ESPERO QUE TODO ESTE MATERIAL TE SEA DE GRAN AYUDA.
 
+Clona este repositorio ejecutando el siguiente comando:
+
+```sh
+git clone https://<token>@github.com/aleon2020/RI_2023-2024.git
+```
+
+IMPORTANTE: Añade tu token tal y como se muestra. Esto se hace con el objetivo de no tener que introducir el token en la terminal cada vez que se quiera actualizar el repositorio utilizando el comando 'git pull'.
+
+Si ya has clonado este repositorio, ejecuta el siguiente comando antes de que empieces a trabajar con él, ya que pueden haberse añadido nuevos cambios o modificaciones. Esto se hace con el objetivo de asegurarte de que tienes clonada la versión más reciente del repositorio:
+
+```sh
+git pull
+```
+
 ## 1. Anotaciones y diapositivas utilizadas en clase
 
 Directorio ['Anotaciones'](https://github.com/aleon2020/RI_2023-2024/tree/main/Anotaciones): Dentro de este directorio se encuentran anotaciones escritas a mano de cada uno de los temas que componen la asignatura, en las que se incluyen las fórmulas/conceptos más importantes vistos en las clses de teoría, además de la solución desarrollada de todos los ejercicios.
