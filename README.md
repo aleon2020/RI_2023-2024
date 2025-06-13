@@ -26,11 +26,9 @@ Directorio ['Anotaciones'](https://github.com/aleon2020/RI_2023-2024/tree/main/A
 
 Directorio ['Diapositivas Teoría'](https://github.com/aleon2020/RI_2023-2024/tree/main/Diapositivas%20Teor%C3%ADa): Dentro de este directorio se encuentran las diapositivas utilizadas en clase para abordar los contenidos teóricos de la asignatura.
 
-## 2. Ejercicios y exámenes
+## 2. Ejercicios
 
 Directorio ['Ejercicios'](https://github.com/aleon2020/RI_2023-2024/tree/main/Ejercicios): Dentro de este directorio se encuentran los ejercicios propuestos en cada tema, además de las soluciones proporcionadas por el profesor.
-
-Directorio ['Exámenes'](https://github.com/aleon2020/RI_2023-2024/tree/main/Ex%C3%A1menes): Dentro de este directorio se encuentran los exámenes de la [Convocatoria Ordinaria](https://github.com/aleon2020/RI_2023-2024/blob/main/Ex%C3%A1menes/Examen%20Convocatoria%20Ordinaria%20Curso%202023-2024.pdf) y de la [Convocatoria Extraordinaria](https://github.com/aleon2020/RI_2023-2024/blob/main/Ex%C3%A1menes/Examen%20Convocatoria%20Extraordinaria%20Curso%202023-2024.pdf) del curso 2023-2024.
 
 ## 3. Laboratorios y prácticas
 
